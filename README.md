@@ -1,9 +1,3 @@
-<!-- - 👋 Hi, I’m Pritam Roy
-- 👀 I’m interested in chess,programming,painting.
-- 🌱 I’m currently learning C(Programming language),React,Node js...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... -->
-
 <h1 align="center">Hi 👋, I'm Pritam Roy</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 
