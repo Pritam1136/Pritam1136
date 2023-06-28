@@ -15,7 +15,6 @@
 
 - 📫 How to reach me *pritamroy1136@gmail.com*
 
-<!-- - 📄 Know about my experiences [I'll change](I'll change) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
