@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritam Roy</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam1136&label=Profile%20views&color=0e75b6&style=flat" alt="pritam1136" /> </p>
-
 <p align="left"> <a href="https://twitter.com/pritam_1296" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_1296?logo=twitter&style=for-the-badge" alt="pritam_1296" /></a> </p>
 
 - 🔭 I’m currently working on [SnippetHub](https://github.com/Pritam1136/SnippetHub)
