@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ProfileFuse](https://github.com/Pritam1136/ProfileFuse.git)
 
-- 🌱 I’m currently learning *C , Express.js*
+- 🌱 I’m currently learning *C ,JAVA , Express.js*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pritam1136](https://github.com/Pritam1136)
 
