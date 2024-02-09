@@ -1,3 +1,4 @@
+![banner](https://github.com/rupali-codes/rupali-codes/assets/78981177/536f1b07-34e0-48f4-97dd-d9e22d8d7748)
 <h1 align="center">Hi 👋, I'm Pritam Roy</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 
