@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/pritam_1296" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_1296?logo=twitter&style=for-the-badge" alt="pritam_1296" /></a> </p>
 
-- 🔭 I’m currently working on [Chat app](https://github.com/Pritam1136/chat)
+- 🔭 I’m currently working on [Chat app](https://github.com/Pritam1136/conversa)
 
 - 🌱 I’m currently learning *C ,JAVA , Express.js*
 
