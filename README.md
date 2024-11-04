@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Chat app](https://github.com/Pritam1136/conversa)
 
-- 🌱 I’m currently learning *C ,JAVA , Express.js*
+- 🌱 I’m currently learning *JAVA , DSA, Three.js*
 
 - 💬 Ask me about *React, Node Js, frontend, backend, web development*
 
